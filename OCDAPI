@@ -1,4 +1,3 @@
-
 public interface OperateCivilianDreams {
 
    int compromise(Allowed  onlyToConcede);
@@ -12,8 +11,4 @@ public interface OperateCivilianDreams {
    int ignorance(double distanceFromExistenceOfFreeThoughts);
    
    int brutality(double distanceFromExistenceOfUnity);
-}
-
-public class Teacher implements OperateCivilianDreams {
-    // code is visibly hidden in order obfuscate the TRUTH
 }
