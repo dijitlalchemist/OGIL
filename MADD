@@ -1,0 +1,5 @@
+public interface MedicateAsynchronousDayDreamers extends OperateCivilianDreams{
+
+   int persistentDiagnosis(Stage earlyOn, Stage laterOn, Treatment heavilyMedicate);
+
+}
