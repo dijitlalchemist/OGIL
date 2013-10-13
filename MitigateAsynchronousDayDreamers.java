@@ -1,4 +1,4 @@
-/*MADD API by Gary Wetter
+/*MADD API
 */
 
 public interface MitigateAsynchronousDayDreamers extends OperateCivilianDreams{
