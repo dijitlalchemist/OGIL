@@ -1,4 +1,3 @@
-
 public interface OperateCivilianDreams {
 
    int compromise(Allowed  onlyToConcede);
